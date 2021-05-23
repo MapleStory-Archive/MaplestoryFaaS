@@ -14,12 +14,16 @@ Farming as a Service kekw
 # Instructions
 
 - Import a farming routine and expose the routine as an inherited function
+
+
 ![UI](img/menu.png)
 
 # Benchmarks
 
 - "Farmed" for over 12 hour continuous sessions without crashing/dc
 - Made over 13b meso, 500 nodes, and 40 droplets before the 5/10/15 event while playing Valorant on main pc lol
+
+
 ![insane kanna rates](img/rates.png)
 
 # Roadmap
